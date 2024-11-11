@@ -5,6 +5,9 @@
 #include <string>
 #include <vector>
 #include <algorithm>
+#include <cstdlib>
+
+
 
 using std::cout;
 using std::cin;
@@ -19,5 +22,11 @@ using std::fixed;
 using std::string;
 using std::vector;
 using std::copy;
+
+using std::to_string;
+using std::ifstream;
+using std::istringstream;
+using std::ofstream;
+
 
 

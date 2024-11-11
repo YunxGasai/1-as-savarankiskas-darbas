@@ -53,6 +53,9 @@ string studentas::vard_() {
 string studentas::pav_() {
     return pav;
 }
+double studentas::Egzaminas() {
+    return egz;
+}
 void studentas::s_vard(string laik_var) {
     vard = laik_var;
 }
