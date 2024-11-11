@@ -1,0 +1,3 @@
+﻿  1Savarankiskas.cpp
+C:\Users\deivi\source\repos\1Savarankiskas\1Savarankiskas\1Savarankiskas.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1Savarankiskas.vcxproj -> C:\Users\deivi\source\repos\1Savarankiskas\x64\Debug\1Savarankiskas.exe
