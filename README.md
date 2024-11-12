@@ -41,3 +41,9 @@ Programai sukurta setup.exe , ištrintos IDE šiukšlės , atliktos optimazatcij
 
 - Failai generiuojami toje pačioje vietoje kur ir yra programą.
 - Nepazangus.txt studentų sąrašas kurių galutinis balas yra mažesnis nei 5 ,Pazangus.txt ,kuriu didesnis nei 5.
+
+ ### Reikalavimai
+
+ Norint naudoti sia programa reikia truėti įdiegta , Microsoft Visual C++ Redistributable.
+
+ 
