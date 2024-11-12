@@ -40,4 +40,4 @@ Programai sukurta setup.exe , ištrintos IDE šiukšlės , atliktos optimazatcij
 ### Išvesties Failai
 
 - Failai generiuojami toje pačioje vietoje kur ir yra programą.
-- Nepazangus.txt studentų sąrašas kurių galutinis balas yra mažesnis nei 5 ,Pazangus.txt ,kuriu didesnis nei 5/
+- Nepazangus.txt studentų sąrašas kurių galutinis balas yra mažesnis nei 5 ,Pazangus.txt ,kuriu didesnis nei 5.
