@@ -32,10 +32,10 @@ Programai sukurta setup.exe , ištrintos IDE šiukšlės , atliktos optimazatcij
 
 ### Naudojimo instrukcijos
 
-1.Paleisti setup.exe ir suinstalioti programą i jūsų pasirinkta vietą.
-2.Paleisti programą.
-3.Pasirinkti veiksmą iš pateikto menių.
-4.Sekti instrukciją reikalingams duomenemims įrašyti.
+- Paleisti setup.exe ir suinstalioti programą i jūsų pasirinkta vietą.
+- Paleisti programą.
+- Pasirinkti veiksmą iš pateikto menių.
+- Sekti instrukciją reikalingams duomenemims įrašyti.
 
 ### Išvesties Failai
 
