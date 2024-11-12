@@ -1,6 +1,0 @@
-﻿  1Savarankiskas.cpp
-C:\Users\deivi\source\repos\1Savarankiskas\1Savarankiskas\1Savarankiskas.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Studentas.cpp
-C:\Users\deivi\source\repos\1Savarankiskas\1Savarankiskas\Studentas.cpp(33,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Generating Code...
-  1Savarankiskas.vcxproj -> C:\Users\deivi\source\repos\1Savarankiskas\x64\Debug\1Savarankiskas.exe
