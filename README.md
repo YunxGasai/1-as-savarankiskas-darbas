@@ -37,11 +37,11 @@ Programai sukurta setup.exe , ištrintos IDE šiukšlės , atliktos optimazatcij
 - Pasirinkti veiksmą iš pateikto menių.
 - Sekti instrukciją reikalingams duomenemims įrašyti.
 
-### Reikalavimai
-
- Norint naudoti sia programa reikia truėti įdiegta , Microsoft Visual C++ Redistributable.
-
 ### Išvesties Failai
 
 - Failai generiuojami toje pačioje vietoje kur ir yra programą.
 - Nepazangus.txt studentų sąrašas kurių galutinis balas yra mažesnis nei 5 ,Pazangus.txt ,kuriu didesnis nei 5.
+
+### Reikalavimai
+
+ Norint naudoti sia programa reikia truėti įdiegta , Microsoft Visual C++ Redistributable.
